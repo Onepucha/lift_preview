@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Splash screen file, saved 9/7/2021 9:14:40 AM using CourseLab 200122 -->
+<splash>
+<settings>
+<showsplash>yes</showsplash>
+<fitwindow>no</fitwindow>
+<fit_small_window>no</fit_small_window>
+</settings>
+<data>
+<![CDATA[<div style="position: absolute; left: -246px; top: 306px; width: 166px; height: 33px;"><div style="position: absolute; width: 166px; height: 33px; -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;" title="НАЧАТЬ" ><div id="ST1_TTL_BTN_BTN" style="cursor: pointer; position: relative; left: 0; top: 0; box-sizing: border-box; width: 166px; height: 33px; border-style: solid; border-width: 1px; border-color: #333333; -o-border-radius: 5px; -ms-border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px;-o-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-ms-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-moz-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); -webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66);border-color: #333333; background-color: #333333;background-image: -o-linear-gradient(90deg, #333333 0%, #666666 100%); background-image: -ms-linear-gradient(90deg, #333333 0%, #666666 100%); background-image: -moz-linear-gradient(90deg, #333333 0%, #666666 100%); background-image: -webkit-linear-gradient(90deg, #333333 0%, #666666 100%); background-image: linear-gradient(0deg, #333333 0%, #666666 100%);" onmouseover="this.setAttribute('style', this.getAttribute('data-style-over'));" onmouseout="this.setAttribute('style', this.getAttribute('data-style-idle'));" onclick="CL.Start(); return false;" data-style-idle="cursor: pointer; position: relative; left: 0; top: 0; box-sizing: border-box; width: 166px; height: 33px; border-style: solid; border-width: 1px; border-color: #333333; -o-border-radius: 5px; -ms-border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px;-o-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-ms-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-moz-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); -webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66);border-color: #333333; background-color: #333333;background-image: -o-linear-gradient(90deg, #333333 0%, #666666 100%); background-image: -ms-linear-gradient(90deg, #333333 0%, #666666 100%); background-image: -moz-linear-gradient(90deg, #333333 0%, #666666 100%); background-image: -webkit-linear-gradient(90deg, #333333 0%, #666666 100%); background-image: linear-gradient(0deg, #333333 0%, #666666 100%);" data-style-over="cursor: pointer; position: relative; left: 0; top: 0; box-sizing: border-box; width: 166px; height: 33px; border-style: solid; border-width: 1px; border-color: #333333; -o-border-radius: 5px; -ms-border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px;-o-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-ms-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-moz-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); -webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66);border-color: #333333; background-color: #333333;background-image: -o-linear-gradient(270deg, #333333 0%, #666666 100%); background-image: -ms-linear-gradient(270deg, #333333 0%, #666666 100%); background-image: -moz-linear-gradient(270deg, #333333 0%, #666666 100%); background-image: -webkit-linear-gradient(270deg, #333333 0%, #666666 100%); background-image: linear-gradient(180deg, #333333 0%, #666666 100%);"><div id="ST1_TTL_BTN_BTN_BG" style="position: relative; padding: 0; margin: 0; width: 164px; height: 31px; "><table id="ST1_TTL_BTN_BTN_TABLE" style="border-spacing: 0; width: 164px; height: 31px;"><tr><td id="ST1_TTL_BTN_BTN_TABLE_CONTENT" style="text-align: center; vertical-align: middle; padding: 0; text-shadow: 1px 1px 2px rgba(0,0,0,0.66); width: 164px; height: 31px; font-family: open_sanssemibold, Arial, sans-serif; font-size: 18px; color: #FFFFFF; ">НАЧАТЬ</td></tr></table></div></div></div></div><div style="position: absolute; box-sizing: border-box; left: 0px; top: 0px; width: 1280px; height: 720px;"><div class="grid splash-img">
+      <div class="row"><img alt="" class="img-fluid hide-xs" src="user/images/splash.jpg" /> <img alt="" class="img-fluid hide show-xs" src="user/images/splash_mobile.jpg" />
+        <div class="col-lg-12 col-xs-12">
+          <h4 class="h4 mb-25 mb-xs-15">Электронный курс
+          </h4>
+          <h2 class="h2 text-orange">Как отдыхать
+            <br />
+            с пользой
+          </h2>
+          <button class="btn btn__splash btn__primary large" onclick="StartModule();" title="Начать">Начать
+          </button>
+        </div>
+      </div>
+    </div></div>]]>
+</data>
+</splash>
